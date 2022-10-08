@@ -30,8 +30,8 @@
       <li>Basics</li>
     </ol>
 
-<h3>week 4 </h3>
-  <h4>Hackerrank<h4/>
+<h3> week 4 </h3>
+  <h4> Hackerrank <h4/>
     <ol>
       <li>Numpy</li>
       <li>Class</li>
@@ -40,7 +40,7 @@
     </ol>
 
   
- <h2>Reference links</h2>
+ <h2> Reference links</h2>
  <ol type='1'>
   <li>[বাংলায় পাইথন] (https://python.howtocode.dev/)</li>
   <li>[My hackerrank python submission] (https://www.hackerrank.com/FABKUET)</li>
