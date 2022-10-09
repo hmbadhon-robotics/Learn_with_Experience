@@ -31,9 +31,10 @@
     </ol>
 
 <h3> week 4 </h3>
+
   <h4> Hackerrank <h4/>
+  
     <ol>
-      <li>Numpy</li>
       <li>Class</li>
       <li>Regex</li>
       <li>Error and exception</li>
