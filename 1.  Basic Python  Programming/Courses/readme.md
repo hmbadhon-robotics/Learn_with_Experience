@@ -29,17 +29,14 @@
       <li>Numpy</li>
       <li>Basics</li>
     </ol>
-
-<h3> week 4 </h3>
-
-  <h4> Hackerrank <h4/>
-  
+<h3>week 4 </h3>
+  <h4>Hackerrank</h4>
     <ol>
       <li>Class</li>
       <li>Regex</li>
       <li>Error and exception</li>
+      <li>Basics</li>
     </ol>
-
   
  <h2> Reference links</h2>
  <ol type='1'>
