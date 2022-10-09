@@ -35,7 +35,6 @@
       <li>Class</li>
       <li>Regex</li>
       <li>Error and exception</li>
-      
     </ol>
   
  <h2> Reference links</h2>
