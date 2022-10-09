@@ -44,6 +44,6 @@
  <h2> Reference links</h2>
  <ol type='1'>
   <li>[বাংলায় পাইথন] (https://python.howtocode.dev/)</li>
-  <li>[My hackerrank python submission] (https://www.hackerrank.com/FABKUET)</li>
+  <li>[My hackerrank python submission] (https://www.hackerrank.com/badhon2)</li>
   
 </ol>
