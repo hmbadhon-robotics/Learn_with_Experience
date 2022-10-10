@@ -4,5 +4,7 @@
 </ol>
 
 <h3>Reference link</h3>
-[Breakout] (https://www.youtube.com/watch?v=NIfkaOF3Hjs&list=RDCMUCPrRY0S-VzekrJK7I7F4-Mg&index=1/)
-[Breakout] (https://www.101computing.net/breakout-tutorial-using-pygame-getting-started/)
+
+(https://www.youtube.com/watch?v=NIfkaOF3Hjs&list=RDCMUCPrRY0S-VzekrJK7I7F4-Mg&index=1/)
+
+(https://www.101computing.net/breakout-tutorial-using-pygame-getting-started/)
