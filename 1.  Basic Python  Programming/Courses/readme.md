@@ -29,7 +29,7 @@
       <li>Numpy</li>
       <li>Basics</li>
     </ol>
-<h3>week 4 </h3>
+<h3>week 4 & week 5</h3>
   <h4>Hackerrank</h4>
     <ol>
       <li>Class</li>
