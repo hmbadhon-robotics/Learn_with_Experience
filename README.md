@@ -3,10 +3,10 @@ Next solution lab (http://www.nextsolutionlab.com) is an artificial intelligence
 
 <h2> Course and Project</h2>
 <ol>
-<li>Basic Python Programming  </li>
-<li>Data Sturcture and Algorithm</li>
-<li> Python game <li>
+<li> Basic Python Programming  </li>
+<li> Data Sturcture and Algorithm </li>
 <li> Machine Learning </li>
-
 <ol>
+Extra 
+<h2>Python game </h2>
 
