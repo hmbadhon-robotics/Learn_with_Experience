@@ -35,4 +35,5 @@ Data Structure and Algorithmn in Python
 <ol>
 <li> [Runstone Academy] (https://runestone.academy/runestone/books/published/pythonds/index.html) </li>
 <li> [শাফায়েতের ব্লগ] (https://www.shafaetsplanet.com/) </li>
+<li> (youtube.com/watch?v=8e_PwxYGZrA&list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l) </li>
 </ol>
