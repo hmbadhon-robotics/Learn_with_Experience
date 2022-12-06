@@ -3,7 +3,7 @@ Data Structure and Algorithmn in Python
 <h3>Fundamental of Data sturctures and algoritms concepts</h3>
 
 
-<h3>Data Structure Folder contain</h3>
+<h3>Data Structure </h3>
 
 <ol>
 <li>Linked List</li>
@@ -14,7 +14,7 @@ Data Structure and Algorithmn in Python
 <li>Trees</li>
 </ol>
 
-<h3>Algorithm Folder contain</h3>
+<h3>Algorithm </h3>
 <ol>
  <li>Graph respresentation</li>
  <li>BFS</li>
