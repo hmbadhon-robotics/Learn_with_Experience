@@ -1,8 +1,8 @@
-import numpy as np
-np.set_printoptions(legacy='1.13')
-n,m=map(int,input().split())
-array=np.array([input().split() for _ in range(n)],int)
-#print(array)
-print(np.mean(array,axis=1))
-print(np.var(array,axis=0))
-print(np.std(array))
+import numpy
+array = []
+n, m = map(int, input().split())
+for _ in range(n): array.append(list(map(int, input().split())))
+array = numpy.array(array)
+print(numpy.mean(array, axis=1))
+print(numpy.var(array, axis=0))
+print(round(numpy.std(array), 11))
