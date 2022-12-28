@@ -1,7 +1,7 @@
 
 <h1> Just follow The Link instruction </h1>
 
- [Link](https://docs.ultralytics.com/quick-start/)
+ [Let's Explore the YoloV5 link ](https://docs.ultralytics.com/quick-start/)
  
 <h2> Thank YOU </h2>
 
